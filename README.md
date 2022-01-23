@@ -10,7 +10,7 @@
   "technologies": {
     "frontEnd": ["html5" ,"css3", "scss", "javascript"],
     "backEnd": ["nodeJS" ,"python" ,"php"],
-    "databases", ["mySQL"],
+    "databases": ["mySQL"],
     "frameworks": ["bootstrap", "expressJS", "reactJS", "nextJS", "mdbootstrap","react-native" ,"redux"],
     "programs": ["vsCode", "winsCP", "gimp", "inkscape",]
   },
