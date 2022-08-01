@@ -1,4 +1,4 @@
-**Hi there! I'm Melihşah TÜLEK. I'm currently working on Web techs. I have been +4 years experience for programming. By the way, I have started learning English and working advanced level JavaScript recently.**
+**Hi there! I'm Melihsah TULEK. I'm currently working on Web techs. I have been +4 years experience for programming. By the way, I have started learning English and working advanced level JavaScript recently.**
 
 **My tech stacks: Vanilla JS, ReactJS, NextJS, Python, Css, Scss, Html5, NodeJS, ExpressJS, Git, Github**
 
