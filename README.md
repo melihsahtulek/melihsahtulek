@@ -1,6 +1,8 @@
 **Hi there! I'm Melihsah TULEK. I'm currently working on Web techs. I have been +4 years experience for programming. By the way, I have started learning English and working advanced level JavaScript recently.**
 
 ![GitHub followers](https://img.shields.io/github/followers/melihsahtulek?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/melihsahtulek?style=for-the-badge)
+
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
